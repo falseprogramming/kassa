@@ -1,0 +1,1 @@
+<h2>Päev <?php echo date('d-m-Y');?> on lõpetatud</h2>

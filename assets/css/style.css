@@ -1,0 +1,51 @@
+body {
+	background-color: white;
+	font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 12px;
+}
+a {
+	outline:none;
+	color: #000;
+}
+.styledForm {
+	
+	border: 1px solid #000;
+	outline:none;
+	padding-left: 2px;
+	font-weight: bold;
+}
+.styledSubmit {
+	
+	background: #000;
+	color: #fff;
+	border:0;
+	padding: 4px;
+	cursor:pointer;
+}
+h1,h2,h3,h4 {margin:0;padding:0;}
+.lBreak {margin: 7px 0 7px 0;}
+table {border: 0;}
+#userDiv label {width: 100px; display: inline-block;}
+
+.daySales {
+	border: 0;
+}
+label{font-weight: bold; font-size: 15px; display: inline-block;}
+
+.rColor {color: hsl(3, 98%, 50%);}
+
+.ui-datepicker{
+    	font-size: 11px;
+    }
+
+#eDateSubmit {background: none; border:0; cursor:pointer; }
+#spacer{margin-bottom: 10px;}
+footer {
+	position:absolute;
+	margin-top: 5px;
+	font-size: 9px;
+	color: #000;
+}
+#salesContainer {width: 500px;}
+
+.infoDesc {font-size:9px; font-family: verdana;}
